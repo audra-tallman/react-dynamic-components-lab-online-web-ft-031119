@@ -24,3 +24,4 @@ export default class BlogPost extends Component {
         <Comment commentText={comments[2]} />
       </div>
     );
+  }
